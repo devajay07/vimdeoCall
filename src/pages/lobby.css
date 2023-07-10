@@ -20,7 +20,7 @@
 
 .video-player{
     background-color: black;
-    width:100%;
+    width:69.5%;
     height:350px;
     border-radius: 8px;
 }
@@ -31,7 +31,7 @@
 
 #controls{
     position: fixed;
-    bottom: 80px;
+    bottom: 30px;
     left:50%;
     transform: translateX(-50%);
 }
